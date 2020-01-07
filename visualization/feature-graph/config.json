@@ -8,12 +8,12 @@
     "text": "Niklas Glaser"
   },
   "text": {
-    "more": "Movie Recommendation for NTDS\nMovie Rating Graph",
-    "intro": "Movie Rating Graph",
-    "title": "Movie Rating Graph"
+    "more": "Movie Recommendation for NTDS\nMovie Feature Graph",
+    "intro": "Movie Feature Graph",
+    "title": "Movie Feature Graph"
   },
   "legend": {
-    "edgeLabel": "Movie Rating Similarity",
+    "edgeLabel": "Movie Features",
     "colorLabel": "Modularity",
     "nodeLabel": "Movies"
   },
@@ -33,7 +33,7 @@
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
-      "labelThreshold": 10,
+      "labelThreshold": 7,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
