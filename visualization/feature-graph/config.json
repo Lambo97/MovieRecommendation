@@ -13,7 +13,7 @@
     "title": "Movie Feature Graph"
   },
   "legend": {
-    "edgeLabel": "Movie Features",
+    "edgeLabel": "Movie Feature Similarity",
     "colorLabel": "Modularity",
     "nodeLabel": "Movies"
   },
@@ -33,7 +33,7 @@
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
-      "labelThreshold": 7,
+      "labelThreshold": 10,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
