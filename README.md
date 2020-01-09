@@ -11,8 +11,8 @@ A second approach will look at the possibility to get information on the movie r
 
 This project has been realized for the course EE-558 : A network tour of data sciences at EPFL (fall 2019).
 
-Lukas De Loose 
-Niklas Glaser
-Maxime Lamborelle
-Nils Ter-Borch
+Lukas De Loose </br>
+Niklas Glaser</br>
+Maxime Lamborelle</br>
+Nils Ter-Borch</br>
 
