@@ -8,13 +8,13 @@
     "text": "NTDS12"
   },
   "text": {
-    "more": "A movie feature network created from genre, keywords and production company",
+    "more": "A movie feature network created from genres\n\n\n",
     "intro": "A movie feature network",
-    "title": "movie features"
+    "title": "movie keywords"
   },
   "legend": {
-    "edgeLabel": "Movie feature similarity",
-    "colorLabel": "Production companies",
+    "edgeLabel": "Movie genre similarity",
+    "colorLabel": "genres",
     "nodeLabel": "Movies"
   },
   "features": {
