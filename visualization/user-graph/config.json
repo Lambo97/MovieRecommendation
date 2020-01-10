@@ -15,7 +15,7 @@
   "legend": {
     "edgeLabel": "User Rating Similarity",
     "colorLabel": "Modularity",
-    "nodeLabel": "Users"
+    "nodeLabel": "User"
   },
   "features": {
     "search": true,
