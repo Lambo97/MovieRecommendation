@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Movie company similarity",
-    "colorLabel": "Companies",
+    "colorLabel": "Production company",
     "nodeLabel": "Movies"
   },
   "features": {

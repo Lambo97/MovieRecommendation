@@ -8,13 +8,13 @@
     "text": "NTDS12"
   },
   "text": {
-    "more": "A movie feature network created from keywords\n\n",
+    "more": "A movie feature network created from the movie keywords\n\n\n\n\n",
     "intro": "A movie feature network",
-    "title": "movie keywords"
+    "title": "Keyword"
   },
   "legend": {
     "edgeLabel": "Movie keyword similarity",
-    "colorLabel": "Keywords",
+    "colorLabel": "Keyword",
     "nodeLabel": "Movies"
   },
   "features": {
